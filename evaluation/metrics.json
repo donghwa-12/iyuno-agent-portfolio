@@ -1,0 +1,8 @@
+{
+  "total_questions": 30,
+  "recall_at_k": 0.933,
+  "faithfulness_score": 0.90,
+  "avg_latency_sec": 1.15,
+  "avg_token_cost_usd": 0.002,
+  "evaluated_at": "2026-09-20"
+}
